@@ -7,7 +7,7 @@ const DummyExpenses = [
     id: "e1",
     title: "Care Insurance",
     amount: 294.67,
-    date: new Date(2022, 1, 27),
+    date: new Date(2020, 1, 27),
   },
   {
     id: "e2",
